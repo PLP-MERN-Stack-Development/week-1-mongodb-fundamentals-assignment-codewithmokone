@@ -45,3 +45,12 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+# MongoDB Bookstore Assignment
+
+## How to Run
+1. Start your MongoDB server locally or connect to MongoDB Atlas.
+2. Use the MongoDB shell or Compass to connect to your database.
+3. Run `insert_books.js` to populate the database with sample data:
+   - shell
+   - mongosh < insert_books.js
